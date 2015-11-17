@@ -1,0 +1,72 @@
+
+.footer{
+    background-color: #FFEFDC;
+    position: relative;
+    bottom: 0;
+}
+
+.footer-content{
+    padding-top: 15px;
+}
+
+.footer-img{
+    width: 50%;
+    padding-top: 2%;
+
+}
+
+.header{
+    background-color: #FFEFDC;
+    height: 70px;;
+}
+
+.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    margin-right: 0;
+    margin-left: 0;
+    padding-top: 8px;
+}
+
+.header-href{
+    margin-left: 35px;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.input-date{
+    font-size: 20px;
+    color: #D8A50E;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+
+.input-date-on-spoiler{
+    font-size: 20px;
+    color: #449d44;
+    border-radius: 6px;
+    border: 1px solid black;
+    margin-top: 3px;
+}
+
+.content{
+    margin-top: 50px;
+}
+
+.table-striped{
+    text-align: center;
+}
+
+.blockStat{
+    display: flex;
+}
+
+.form-control{
+    width: 125px;
+}
+
+.statVud{
+    margin-top: 15px;
+}
+
+.zagStat{
+    margin-top: 8px;
+}

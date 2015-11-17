@@ -1,0 +1,288 @@
+.header{
+        background-color: #FFEFDC;  
+        height: 70px;;
+}
+
+.container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    margin-right: 0;
+    margin-left: 0;
+    padding-top: 8px;
+}
+
+.header-href{
+    margin-left: 35px;
+    font-style: normal;
+    font-size: 20px;
+}
+
+
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #000;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+    color: #000;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus {
+    color: #000;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: #000;   
+}
+
+.navbar-nav > li > .dropdown-menu {
+ background-color: #FFEFDC; 
+}
+
+.content{
+    margin-top: 68px;   
+}
+
+.input-date{   
+    font-size: 20px;
+    color: #D8A50E;
+    border-radius: 6px;
+    border: 1px solid black;
+}
+
+.input-date-on-spoiler{
+    font-size: 20px;
+    color: #449d44;
+    border-radius: 6px;
+    border: 1px solid black;
+    margin-top: 3px;
+}
+
+.mainTable{
+    margin-top:15px;
+}
+
+.free{
+    background-color: #FFEFDC;
+}
+
+.hourInTable1{
+    text-align: center;
+}
+
+.table > tbody > tr > th{
+    text-align: center;
+}
+
+.btnInTable1{
+    display: block;
+}
+
+.btn-warning:hover{
+    background-color: #FFF;
+    color: #000;
+}
+
+.add-new-from-online{
+    max-height: 1000px;   
+}
+
+.well{
+    margin-top: 15px;   
+}
+
+.hour{
+    width: 50px;   
+}
+
+.search-content{
+    display: flex;
+}
+
+.btn-search-in-modal{
+    width: 150px;   
+}
+
+.enabled{
+    padding: 7px 0 0 30px;   
+}
+
+a.spoiler:before{
+    content: "Закрити ";
+}
+a.spoiler.collapsed:before{
+    content: "Відкрити ";
+}
+
+.btn-non-standart-settings{
+    margin-top: 20px;   
+}
+
+.btn-setting-for-admin:hover{
+    background-color: #449d44;
+    color: #000;
+    border: 1px solid #449d44;
+}
+
+.timeOnModal-3 {
+    width: 60%;
+}
+
+.period{
+    display: -webkit-inline-box;
+}
+
+.periodOnModal-3{
+    width: 100px; 
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.countOperatorOnModal-3{
+    margin-left: 5px; 
+    width: 100px;
+}
+
+.textOnPeriod{
+    margin-bottom: 5px;   
+}
+
+
+
+
+.modalAddPeriod{
+   width: 700px;
+}
+
+.btnAddPeriod{
+    margin-left: 16px;
+    margin-bottom: 10px;
+}
+
+.obl-info{
+    text-align: -webkit-center;
+}
+
+.obl-info{
+    text-align: -webkit-center;
+}
+
+.footer{
+    background-color: #FFEFDC;
+    margin-top: 15px;
+}
+
+.footer-content{
+    padding-top: 15px;
+}
+
+.footer-img{
+    width: 50%;
+    padding-top: 2%;
+}
+
+.btn-setting-for-admin{
+    margin-bottom: 25px;
+}
+
+.btnInTable1{
+    text-align: center;
+    padding-top: 3px;
+    color: #000;
+}
+
+.btnInTable1:hover{
+    color: #000;
+}
+
+.btnInTable1:visited{
+    color: #000;
+}
+
+.free:hover{
+    background-color: #5cb85c;
+}
+
+.employed:hover{
+     background-color: #f9dd34;
+ }
+
+
+.incrementOnOnePeriod{
+    margin-left: 10px;
+    margin-right: -15px;
+    margin-top: 5px;
+    color: #000;
+}
+
+.incrementOnOnePeriod:hover, :visited, :active, :focus{
+    color: #000;
+}
+
+.btnAdd{
+    padding-top: 10px;
+}
+
+.viewHour{
+    padding-top: 10px;
+}
+
+.dropdownMenuForAdmin{
+    margin: -34px 0px 0px 100px;
+}
+
+.periodOnAdminPage{
+    width: 100px;
+}
+
+.btnEmployed{
+     background-color: #d9534f;
+}
+
+.btnEmployed:visited{
+    background-color: #d9534f;
+}
+
+.first{
+    padding-left: 7px;
+}
+
+.rowInTable1{
+    text-align: -webkit-center;
+}
+
+.contentInTable1{
+    padding-top: 16px;
+}
+
+.table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    padding: 10px;
+    vertical-align: inherit;
+}
+
+.formAddFromLive{
+    margin-top: 50px;
+}
+
+.formCaption{
+    text-align: center;
+}
+
+#labelClear{
+    color: #cd0a0a;
+    display: none;
+}
+
+.add_real_client{
+    display: -webkit-box;
+}
+
+.btnAddTypeSettings{
+    margin-top: 5px;
+}
+
+.btnSaveOnModal6{
+    margin-left: 17px;
+}
+
+.btnSaveOnModal3{
+    margin-left: 17px;
+}
